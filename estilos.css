@@ -1,0 +1,80 @@
+* {
+    background-color:lightblue;
+}
+header {
+        background-color:white;
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+        color:lightskyblue;
+        font-weight: bold;
+        font-size: x-large;
+}
+#logo {
+        width: 200px;
+        background-color: white;
+}
+.navbar-brand{
+    background-color: white;
+}
+nav{
+    border: solid 3px white;
+    background-color: white;
+}
+.nav-link {
+    text-align: center;
+    background-color:white;
+    color: lightblue;
+}
+h1 {
+    text-align: center;
+    font-weight: 9000;
+    font-family: Arial;
+    font-size: x-large;
+    color:  rgb(21, 41, 77);
+    border: solid 1px lightblue;
+    margin: 50px;
+    padding: 50px;
+}
+
+button{
+    color:  rgb(21, 41, 77);
+    background-color: lightgray;
+}
+
+h2{
+    color:  rgb(21, 41, 77);
+    font-family: Arial;
+}
+ul{
+    color:  rgb(21, 41, 77);
+}
+footer{
+    border: solid 100px 0px lightblue;
+    background-color: rgb(21, 41, 77);
+    padding: 20px;
+}
+h4{
+    background-color: rgb(21, 41, 77);
+    color: lightblue;
+}
+p{
+    background-color: rgb(21, 41, 77);
+    color: lightblue;
+}    
+#blank{
+    padding-left: 50px;
+}
+#blank1{
+    padding-left: 50px;
+}
+#blank2{
+    padding-left: 50px;
+}
+#reintentar{
+    background-color: lightgrey;
+    color: rgb(21, 41, 77);
+    font-family: Arial;
+}
+.video{
+    padding: 50px 0px;
+}
